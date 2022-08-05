@@ -1,0 +1,166 @@
+1659374564678	geckodriver	INFO	Listening on 127.0.0.1:53669
+1659374567758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53670" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofilecRBT9C"
+1659374568592	geckodriver	INFO	Listening on 127.0.0.1:53678
+1659374571678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofileOhMGC2"
+1659374572066	Marionette	INFO	Marionette enabled
+1659374572073	Marionette	INFO	Listening on port 53688
+WebDriver BiDi listening on ws://localhost:53679
+Read port: 53688
+1659374572265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofileOhMGC2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53679/devtools/browser/6c99c4f0-8f33-4b20-9a3b-b9922b991ce7
+JavaScript error: https://cdn.atendimen.to/n.js?ntag=0&d=bistek.neoassist.com&i=lojaonline&p=https%3A%2F%2Fwww.bistek.com.br%2F, line 8: TypeError: Target [NeoassistCentral] element not found...
+1659374582225	Marionette	INFO	Stopped listening on port 53688
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1659374627822	geckodriver	INFO	Listening on 127.0.0.1:53727
+1659374630878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53728" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofileiU4g0h"
+1659374631271	Marionette	INFO	Marionette enabled
+1659374631277	Marionette	INFO	Listening on port 53739
+WebDriver BiDi listening on ws://localhost:53728
+Read port: 53739
+1659374631450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofileiU4g0h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53728/devtools/browser/da0b5ce1-a62e-4d13-be9d-67e233e3bc20
+JavaScript error: https://cdn.atendimen.to/n.js?ntag=0&d=bistek.neoassist.com&i=lojaonline&p=https%3A%2F%2Fwww.bistek.com.br%2F, line 8: TypeError: Target [NeoassistCentral] element not found...
+1659374641221	Marionette	INFO	Stopped listening on port 53739
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1659375159605	geckodriver	INFO	Listening on 127.0.0.1:53822
+1659375162655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofileE2T9tY"
+1659375163057	Marionette	INFO	Marionette enabled
+1659375163063	Marionette	INFO	Listening on port 53832
+WebDriver BiDi listening on ws://localhost:53823
+Read port: 53832
+1659375163235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofileE2T9tY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53823/devtools/browser/7ff41831-7339-49c8-905a-ab908f18c38e
+JavaScript error: https://cdn.atendimen.to/n.js?ntag=0&d=bistek.neoassist.com&i=lojaonline&p=https%3A%2F%2Fwww.bistek.com.br%2F, line 8: TypeError: Target [NeoassistCentral] element not found...
+1659375172820	Marionette	INFO	Stopped listening on port 53832
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1659375743271	geckodriver	INFO	Listening on 127.0.0.1:53972
+1659375746329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofileuMfgXv"
+1659375746715	Marionette	INFO	Marionette enabled
+1659375746721	Marionette	INFO	Listening on port 53983
+WebDriver BiDi listening on ws://localhost:53973
+Read port: 53983
+1659375746894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofileuMfgXv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53973/devtools/browser/b5f1f471-f782-4c18-bf38-aceb8fd959b0
+1659375751130	Marionette	INFO	Stopped listening on port 53983
+1659376105218	geckodriver	INFO	Listening on 127.0.0.1:54074
+1659376108311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofilenEFg7g"
+1659376108702	Marionette	INFO	Marionette enabled
+1659376108709	Marionette	INFO	Listening on port 54085
+WebDriver BiDi listening on ws://localhost:54075
+Read port: 54085
+1659376108878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofilenEFg7g\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54075/devtools/browser/96dbd5ae-cf6c-45cb-8d9a-3e7966723596
+1659376382577	Marionette	INFO	Stopped listening on port 54085
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofileE1gzz2"
+1659376159699	Marionette	INFO	Marionette enabled
+1659376159705	Marionette	INFO	Listening on port 54144
+WebDriver BiDi listening on ws://localhost:54135
+Read port: 54144
+1659376159875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofileE1gzz2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54135/devtools/browser/736cfed7-5f13-4748-aa64-695bd8043e83
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1659376168431	Marionette	INFO	Stopped listening on port 54144
+1659376568888	geckodriver	INFO	Listening on 127.0.0.1:54282
+1659376571935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54283" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofile2UeAnI"
+1659376572318	Marionette	INFO	Marionette enabled
+1659376572324	Marionette	INFO	Listening on port 54292
+WebDriver BiDi listening on ws://localhost:54283
+Read port: 54292
+1659376572501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofile2UeAnI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54283/devtools/browser/48222dfd-91fa-488f-90fe-8cd0424987ad
+1659376580873	Marionette	INFO	Stopped listening on port 54292
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659376597843	geckodriver	INFO	Listening on 127.0.0.1:54335
+1659376600906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54336" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofileOCnfrZ"
+1659376601283	Marionette	INFO	Marionette enabled
+1659376601289	Marionette	INFO	Listening on port 54345
+WebDriver BiDi listening on ws://localhost:54336
+Read port: 54345
+1659376601466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofileOCnfrZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54336/devtools/browser/52d58486-1cda-4cc3-9519-5dea965d5a87
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1659376756518	Marionette	INFO	Stopped listening on port 54345
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54384" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofile9octFH"
+1659376655345	Marionette	INFO	Marionette enabled
+1659376655351	Marionette	INFO	Listening on port 54394
+WebDriver BiDi listening on ws://localhost:54384
+Read port: 54394
+1659376655521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofile9octFH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54384/devtools/browser/8cce664b-274b-4d92-9fe0-ae2962f206dc
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://externo.proway.com.br"
+1659376755679	Marionette	INFO	Stopped listening on port 54394
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\entra21\AppData\Local\Temp\rust_mozprofile9octFH\protections.sqlite
+ng on ws://localhost:54435
+Read port: 54444
+1659376745329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofileyAE7yX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54435/devtools/browser/5da81832-f9fa-44e3-b30d-591c0c3d0acf
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://externo.proway.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://externo.proway.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659376753001	Marionette	INFO	Stopped listening on port 54444
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659376764865	geckodriver	INFO	Listening on 127.0.0.1:54482
+1659376767916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofilejraSe0"
+1659376768314	Marionette	INFO	Marionette enabled
+1659376768321	Marionette	INFO	Listening on port 54492
+WebDriver BiDi listening on ws://localhost:54483
+Read port: 54492
+1659376768490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofilejraSe0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54483/devtools/browser/26edc0b6-d019-49ba-be4d-18b7ea901c59
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://externo.proway.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://externo.proway.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1659380099843	Marionette	INFO	Stopped listening on port 54492
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofilebhT2NF"
+1659377483071	Marionette	INFO	Marionette enabled
+1659377483076	Marionette	INFO	Listening on port 54615
+WebDriver BiDi listening on ws://localhost:54606
+Read port: 54615
+1659377483251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofilebhT2NF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54606/devtools/browser/98495a90-d432-47b7-b0ae-67a48d0979a5
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://externo.proway.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://externo.proway.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1659380098259	Marionette	INFO	Stopped listening on port 54615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofileis8VBB"
+1659377510559	Marionette	INFO	Marionette enabled
+1659377510564	Marionette	INFO	Listening on port 54657
+WebDriver BiDi listening on ws://localhost:54648
+Read port: 54657
+1659377510738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\entra21\\AppData\\Local\\Temp\\rust_mozprofileis8VBB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54648/devtools/browser/33ea7742-abd0-489f-a38a-b5beb5a76101
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://externo.proway.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://externo.proway.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1659380095026	Marionette	INFO	Stopped listening on port 54657
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
