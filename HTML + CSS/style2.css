@@ -34,7 +34,7 @@ h4{
     height: 50px;
 }
 .logo{
-    text-align: center;
-    width: 150px;
-    height: 150px;
+    justify-items: center;
+    width: 200px;
+    height: 200px;
 }
