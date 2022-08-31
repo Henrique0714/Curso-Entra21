@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function cumprimentar(){
+            let texto = document.getElementById('texto')
+            alert('Bom dia '+ texto.value)
+        }
+        function triangulo(){
+        let l1 = parseInt(document.getElementById('l1').value)
+        let l2 = parseInt(document.getElementById('l2').value)
+        let l3 = parseInt(document.getElementById('l3').value)
+        let resposta = document.getElementById('resposta')
+
+            if (l1==l2 && l1==l3){
+                resposta.innerHTML= 'Triângulo Equilátero'
+                resposta.style.color = 'green'
+            }else if(l1>l2+l3 || l2>l1+l3 || l3>l1+l2){
+                resposta.innerHTML = 'Não é um Triângulo'
+                resposta.style.color = 'red'
+            }else if(l1==l2 || l2==l3 || l1==l3){
+                resposta.innerHTML = 'Triângulo Isóceles'
+                resposta.style.color = 'blue'
+            }else{
+                resposta.innerHTML = 'Triângulo Escaleno'
+                resposta.style.color = 'orange'
+            }
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="l1"><br>
+    <input type="text" id="l2"><br>
+    <input type="text" id="l3"><br>
+    <input type="button" value="Clique no Botão" id="botao" onclick="triangulo()">
+    <h1 id = "resposta"></h1>
+</body>
+</html>
+

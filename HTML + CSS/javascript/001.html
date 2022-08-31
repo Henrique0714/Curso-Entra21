@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        // alert("Bom dia")
+        // wildow.alert("Boa tarde")
+        // var nome= prompt('Qual seu nome?')
+        // let sobrenome = prompt('qual o seu sobrenome?')
+        // alert('Boa tarde' +nome+' '+sobrenome)
+        // const valor = 10
+        // let nota = prompt('digite a sua nota: ')
+        // // if(nota >= 7){
+        // //     alert('aprovado')
+        // // }else if (nota >= 5){
+        // //     alert('exame')
+        // // }
+        // let frequencia = prompt('digite a frequencia: ')
+        // if (nota>=7 || frequencia >=0.75){
+        //     alert('aprovado')
+        // }else{
+        //     alert('reprovado')
+        // }
+        let medida1 = parseInt(prompt('digite sua medida:'))
+        let medida2 = parseInt(prompt('digite sua medida:'))
+        let medida3 = parseInt(prompt('digite sua medida:'))
+        if (medida1 > (medida2 + medida3)|| medida2 > (medida1+medida3)||medida3 > (medida1+medida2)){
+            alert('não é um triangulo')
+        }else if (medida1 == medida2 && medida2 == medida3){
+            alert('triangulo equilatero')
+        }else if (medida1 == medida2 && medida1 != medida3 || medida2 == medida1 && medida2 != medida3 || medida3 == medida1 && medida3 != medida2){
+            alert('esse trtiangulo é isoceles')
+        }else if (medida1 != medida2 && medida2 != medida3 && medida3 != medida1){
+            alert('esse triangulo é escaleno')
+        }else if (medida1 > (medida2 + medida3) || medida2 > (medida1 + medida3) || medida3 > (medida2 + medida3)){
+            alert('não é traingulo')
+        }
+        
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
