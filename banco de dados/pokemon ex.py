@@ -20,7 +20,7 @@ def Inserir_Pokemon():
     conexao.commit()
 
     cursor.execute('SELECT * FROM lista_pokemons')
-    for lista_pokemons in cursor.fetchall():
+    for lista_pokemons in cursor.fetchall()A:
         print(f'{lista_pokemons[0]} - {lista_pokemons[1]} - {lista_pokemons[2]} - {lista_pokemons[3]} - {lista_pokemons[4]}')
 
 
